@@ -1,11 +1,14 @@
 
-### About Dani-op
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Dani-op.Dani-op)
+### About 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Dani-op.Dani-op) -->
 
 
-🔭 Currently Studying @OtagoPolytechnic
+🔭 Final year IT Student at @OtagoPolytechnic
 
-🌱 Currently learning  
+Dedicated, self-motivated, full-stack IT student passionate about leveraging technology to drive meaningful change. My well-rounded skill set enables me to tackle projects from frontend to backend development. Experienced in deployment and other essential tasks, I consistently strive to expand my expertise and adapt to the ever-evolving tech landscape.
+
+
+<!--🌱 Currently learning  -->
 
 <!--
 **Dani-op/Dani-op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +25,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Detailed Report using Metrics](https://metrics.lecoq.io/insights/Dani-op)
+<!--[Detailed Report using Metrics](https://metrics.lecoq.io/insights/Dani-op) -->
 
-![Metrics](https://metrics.lecoq.io/Dani-op?template=classic&base.header=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization=true&notable.repositories=true&notable.indepth=true&config.timezone=NZDT%2FNewZealand)
+<!--![Metrics](https://metrics.lecoq.io/Dani-op?template=classic&base.header=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization=true&notable.repositories=true&notable.indepth=true&config.timezone=NZDT%2FNewZealand) -->
 
 ![Alt Text](https://media2.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif?cid=790b76118ea9d6ed53b10062d98cd1a9730dc27d5c1ef1f1&rid=giphy.gif&ct=g
 )
