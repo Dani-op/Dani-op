@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 Final year IT Student at @OtagoPolytechnic<br><br>Dedicated, self-motivated, full-stack IT student passionate about leveraging technology to drive meaningful change. My well-rounded skill set enables me to tackle projects from frontend to backend development. Experienced in deployment and other essential tasks, I consistently strive to expand my expertise and adapt to the ever-evolving tech landscape.
+🔭 iT Graduate from @OtagoPolytechnic<br><br>Dedicated, self-motivated, full-stack IT student passionate about leveraging technology to drive meaningful change. My well-rounded skill set enables me to tackle projects from frontend to backend development. Experienced in deployment and other essential tasks, I consistently strive to expand my expertise and adapt to the ever-evolving tech landscape.
 
 
 ## 🌐 Socials:
