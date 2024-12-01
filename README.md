@@ -1,7 +1,6 @@
 
 # 💫 About Me:
-🔭 iT Graduate from @OtagoPolytechnic<br><br>Dedicated, self-motivated, full-stack IT student passionate about leveraging technology to drive meaningful change. My well-rounded skill set enables me to tackle projects from frontend to backend development. Experienced in deployment and other essential tasks, I consistently strive to expand my expertise and adapt to the ever-evolving tech landscape.
-
+🔭 IT Graduate with Distinction from @OtagoPolytechnic <br><br>Dedicated full-stack developer with expertise in front-end, back-end, databases, deployment, and mobile app development. Passionate about robotics, creating impactful solutions, and continually expanding my skills.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/grRA4fR5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durr-e-muhammad-ghauri-aa8345217/) 
