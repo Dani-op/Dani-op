@@ -3,7 +3,8 @@
 🔭 IT Graduate with Distinction from @OtagoPolytechnic <br><br>Dedicated full-stack developer with expertise in front-end, back-end, databases, deployment, and mobile app development. Passionate about robotics, creating impactful solutions, and continually expanding my skills.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/grRA4fR5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durr-e-muhammad-ghauri-aa8345217/) 
+<!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/grRA4fR5) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durr-e-muhammad-ghauri-aa8345217/) 
 
 
 # 💻 Tech Stack:
